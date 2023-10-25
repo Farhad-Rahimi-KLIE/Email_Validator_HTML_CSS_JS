@@ -1,2 +1,2 @@
-// This Is Api key
+// This Is Api key for your use
 let key = "YOUR-API-KEY"
