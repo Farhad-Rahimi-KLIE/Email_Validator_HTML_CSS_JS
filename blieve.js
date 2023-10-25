@@ -1,1 +1,1 @@
-// Email Validator for everyone
+// Email Validator for everyone use
